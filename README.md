@@ -1,9 +1,9 @@
 # 👋 Hi! I'm Oleg (sal1r) — Android Developer
 
 ### About Me:
-- 🏠 Based in Oryol, Russia.
-- 📱 Passionate about mobile app development.
-- 🧑‍💻 I'm 17 years old, creating modern and user-friendly applications.
+- 🏠 Based in Oryol, Russia
+- 📱 Passionate about mobile app development
+- 🧑‍💻 I'm 17 years old, creating modern and user-friendly applications
 
 ---
 
