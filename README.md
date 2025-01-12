@@ -10,7 +10,7 @@
 ### 🔧 My Tech Stack:
 #### Core Stack:
 - **Languages**: Kotlin, Python, SQL
-- **Android Technologies**: Jetpack Compose, XML, Retrofit, Room, Firebase, Paging, Coil, Koin, ViewModel, Media 3
+- **Android Technologies**: Jetpack Compose, Coroutines, Flow, XML, Retrofit, Room, Firebase, Paging, Coil, Koin, ViewModel, Media 3
 - **Other Technologies**: SQLite, OAuth 2.0
 - **Architecture**: Clean Architecture, MVVM
 
