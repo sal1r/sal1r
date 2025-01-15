@@ -24,5 +24,5 @@
 
 ### 📫 Get in Touch:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/sal1r)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:sal1r57@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sal1r)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sal1r57@yandex.ru)
