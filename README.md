@@ -10,14 +10,14 @@
 ### 🔧 My Tech Stack:
 #### Core Stack:
 - **Languages**: Kotlin, Python, SQL
-- **Technologies**: Jetpack Compose, Coroutines, Flow, XML, Retrofit, Room, Firebase, Paging, Coil, Koin, ViewModel, Media 3, SQLite, OAuth 2.0
+- **Technologies**: Jetpack Compose, Coroutines, Flow, Material 3, XML, Retrofit, Room, Firebase, Paging, Coil, Koin, ViewModel, Media 3, SQLite, OAuth 2.0
 - **Architecture**: Clean Architecture, MVVM
-- **Tools**: Android Studio, Gradle, Git
+- **Tools**: Android Studio, PyCharm, Gradle, Git
 
 #### Other Skills:
 - Python (matplot, plotly, pandas, numpy, scipy)
 - GameDev with C# and GDScript (Unity, Godot)
-- JS, HTML, CSS
+- JS, HTML, CSS, SCSS
 - C/C++
 
 ---
