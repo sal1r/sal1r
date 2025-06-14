@@ -11,7 +11,7 @@
 #### Core Stack:
 - **Languages**: Kotlin, Python, SQL
 - **Technologies**: Jetpack Compose, Coroutines, Flow, Material 3, XML, Retrofit, Room, Firebase, Paging, Coil, Koin, ViewModel, Media 3, SQLite, OAuth 2.0
-- **Architecture**: Clean Architecture, MVVM
+- **Architecture**: Clean Architecture, MVVM, multimodule
 - **Tools**: Android Studio, PyCharm, Gradle, Git
 
 #### Other Skills:
